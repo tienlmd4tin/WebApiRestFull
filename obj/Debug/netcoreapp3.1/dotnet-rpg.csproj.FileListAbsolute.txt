@@ -31,3 +31,8 @@ E:\Tienlm\netcore\dotnet-rpg\obj\Debug\netcoreapp3.1\dotnet-rpg.RazorAssemblyInf
 E:\Tienlm\netcore\dotnet-rpg\obj\Debug\netcoreapp3.1\dotnet-rpg.csproj.CopyComplete
 E:\Tienlm\netcore\dotnet-rpg\bin\Debug\netcoreapp3.1\AutoMapper.dll
 E:\Tienlm\netcore\dotnet-rpg\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Tienlm\netcore\dotnet-rpg\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\Tienlm\netcore\dotnet-rpg\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\Tienlm\netcore\dotnet-rpg\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Tienlm\netcore\dotnet-rpg\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Tienlm\netcore\dotnet-rpg\obj\Debug\netcoreapp3.1\dotnet-rpg.MvcApplicationPartsAssemblyInfo.cs

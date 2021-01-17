@@ -21,6 +21,9 @@ namespace dotnet_rpg
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
+
+            services.AddSwaggerGen();
+
             services.AddAutoMapper(typeof(Startup));
             services.AddScoped<ICharacterService,CharacterService>();
         }
@@ -34,6 +37,12 @@ namespace dotnet_rpg
             }
 
             //app.UseHttpsRedirection();
+
+            app.UseSwagger();  
+            app.UseSwaggerUI(c =>  
+            {  
+            c.SwaggerEndpoint("/swagger/v1/swagger.json", "Character Api v1");  
+            });
 
             app.UseRouting();
 
